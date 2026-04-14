@@ -1,0 +1,27 @@
+---
+pid: 3064
+cwd: |
+  C:\Users\gatro\AppData\Local\Programs\cursor\BookingAppClone\android
+last_command: |
+  cd android
+  keytool -genkeypair -v -storetype JKS -keystore upload-keystore.jks -alias upload -keyalg RSA -keysize 2048 -validity 10000
+last_exit_code: 1
+---
+PS C:\Users\gatro\AppData\Local\Programs\cursor\BookingAppClone> cd android
+>> keytool -genkeypair -v -storetype JKS -keystore upload-keystore.jks -alias upload -keyalg RSA -keysize 2048 -validity 10000
+keytool: 
+Line |
+   2 |  keytool -genkeypair -v -storetype JKS -keystore upload-keystore.jks - …
+     |  ~~~~~~~
+     | The term 'keytool' is not recognized as a name of a cmdlet, function, script file, or executable program.
+Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+PS C:\Users\gatro\AppData\Local\Programs\cursor\BookingAppClone\android> cd android
+>> keytool -genkeypair -v -storetype JKS -keystore upload-keystore.jks -alias upload -keyalg RSA -keysize 2048 -validity 10000
+Set-Location: Cannot find path 'C:\Users\gatro\AppData\Local\Programs\cursor\BookingAppClone\android\android' because it does not exist.
+keytool: 
+Line |
+   2 |  keytool -genkeypair -v -storetype JKS -keystore upload-keystore.jks - …
+     |  ~~~~~~~
+     | The term 'keytool' is not recognized as a name of a cmdlet, function, script file, or executable program.
+Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+PS C:\Users\gatro\AppData\Local\Programs\cursor\BookingAppClone\android>

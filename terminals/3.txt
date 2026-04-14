@@ -1,0 +1,6 @@
+---
+pid: 26608
+cwd: |
+  C:\Users\gatro\AppData\Local\Programs\cursor\BookingAppClone
+---
+PS C:\Users\gatro\AppData\Local\Programs\cursor\BookingAppClone>
